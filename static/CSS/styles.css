@@ -87,3 +87,9 @@ figcaption {
     font-family: 'Love Ya Like A Sister', cursive;
     margin-top: 30px;
 }
+
+.contacts {
+    background-image: url("/static/IMG/pexels-photo-7363056.jpege");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
