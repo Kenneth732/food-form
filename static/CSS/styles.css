@@ -4,3 +4,7 @@
 /*
 'Shadows Into Light', cursive
 */
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
