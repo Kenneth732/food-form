@@ -19,3 +19,7 @@ body {
     display: flex;
     margin-top: 30px;
 }
+
+#spantext {
+    color: yellow;
+}
