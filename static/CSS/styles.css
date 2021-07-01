@@ -27,3 +27,7 @@ body {
 .navi {
     float: right;
 }
+
+.exc {
+    color: yellow;
+}
