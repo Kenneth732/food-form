@@ -14,3 +14,8 @@ body {
     overflow-x: hidden;
     color: #ffffff;
 }
+
+.socials{
+    display: flex;
+    margin-top: 30px;
+}
