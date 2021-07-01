@@ -49,3 +49,8 @@ li {
     margin-top: 90px;
     margin-bottom: 100px;
 }
+
+.h-buttons button {
+    border-radius: 40px;
+    color: black;
+}
