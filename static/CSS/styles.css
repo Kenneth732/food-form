@@ -76,3 +76,8 @@ figcaption {
 #order-pizza {
     color: #000;
 }
+
+#list li {
+    font-size: 24px;
+    font-family: system-ui, serif;
+}
