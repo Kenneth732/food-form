@@ -68,3 +68,7 @@ figcaption {
 #menu {
     padding-top: 20px;
 }
+
+.wiggle{
+    border-radius: 15%;
+}
